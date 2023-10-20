@@ -43,4 +43,4 @@ This README provides a high-level overview of the predictive maintenance assignm
 For any questions or assistance, feel free to reach out.
 
 Best regards,
-[Your Name]
+Khaydarov Shokhzod.
